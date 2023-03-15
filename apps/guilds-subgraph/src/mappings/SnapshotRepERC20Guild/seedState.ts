@@ -26,7 +26,6 @@ export const membersSeed = `{
     "0x8a5749a90c334953fd068aca14f1044eb3f7dfdd",
     "0xb492873d940dac02b5021dff82282d8374509582",
     "0xb5806a701c2ae0366e15bde9be140e82190fa3d6",
-    "0xe716ec63c5673b3a4732d22909b38d779fa47c3f",
     "0xf006779eabe823f8eed05464a1628383af1f7afb"
   ],
   "0x27738372381c69baee8efd832efa097295418b1b": [
@@ -40,9 +39,7 @@ export const membersSeed = `{
     "0x8E900Cf9BD655e34bb610f0Ef365D8d476fD7337",
     "0x08EEc580AD41e9994599BaD7d2a74A9874A2852c",
     "0x1861974f32eacdcced0f81b0f8eccfed58153a9d",
-    "0x19B548aCD4AD55d6A8a0ec4E89375a95496A80eF",
     "0xd179b3217f9593a9faac7c85d5acaf1f5223d762"
   ]
 }
 `;
-
